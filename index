@@ -1,1 +1,15 @@
-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>V Congreso Mundial de Asturianía - Asistencia</title>
+  <style>
+    body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+    iframe { width: 100%; height: 100%; border: none; }
+  </style>
+</head>
+<body>
+  <iframe src="https://script.google.com/macros/s/AKfycbw_HRYk_4tRCWAAuYmTwmsB5iU-3b0j92XTfJkncTGRp5bkynXWEy15bzZNtJp_g2q12Q/exec"></iframe>
+</body>
+</html>
